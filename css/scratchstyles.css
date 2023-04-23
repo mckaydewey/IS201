@@ -1,17 +1,19 @@
 .common{
     
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(142, 167, 124);
+    color: antiquewhite;
+
 
 }
-.title{
-    height: 20px;
+.image{
+   align-content: flex-start;
 }
 
 .header{
     color: white;
     font-size: 40px;
     text-align: center;
+    height: 40px   ;
 }
 
 .text{
